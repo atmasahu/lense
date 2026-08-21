@@ -296,7 +296,7 @@
     "typed-regex": "^0.0.8",
     "uuid": "^8.3.2",
     "win-ca": "^3.5.0",
-    "winston": "^3.8.2",
+    "winston": "^3.19.0",
     "winston-transport-browserconsole": "^1.0.5",
     "ws": "^8.12.0",
     "xterm-link-provider": "^1.3.1"
